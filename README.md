@@ -1,5 +1,5 @@
 # 💫 About Me:
-En proceso de dominar la programación Backend 💻, mi enfoque actual se centra en explorar las complejidades de esta disciplina. Mi fascinación por la inteligencia artificial 🧠 impulsa mi deseo de comprender y contribuir al fascinante mundo de los Modelos de Lenguaje Grande (LLM) 🤖, donde actualmente estoy inmersa en investigaciones y experimentos apasionantes.
+En proceso de dominar la programación Backend 💻, mi enfoque actual se centra en explorar las complejidades de esta disciplina. Mi fascinación por la inteligencia artificial 🧠 impulsa mi deseo de comprender y contribuir al fascinante mundo de los Modelos de Lenguaje Grande (LLM) 🤖.
 
 
 ## 🌐 Socials:
