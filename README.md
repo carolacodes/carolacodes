@@ -1,5 +1,8 @@
-# 💫 About Me:
-En proceso de dominar la programación Backend 💻, mi enfoque actual se centra en explorar las complejidades de esta disciplina. Mi fascinación por la inteligencia artificial 🧠 impulsa mi deseo de comprender y contribuir al fascinante mundo de los Modelos de Lenguaje Grande (LLM) 🤖.
+# Hello, I'm Carola Cardozo 👾:
+
+I am a developer passionate about technology, with experience in the MERN stack (MongoDB, Express.js, React, Node.js). Additionally, I have experience developing projects with C#, SQL Server, PHP, and C++, which has allowed me to tackle different paradigms and technological contexts.
+
+I am currently focused on refining my Backend programming 💻 skills and exploring new areas such as Artificial Intelligence 🧠, with a particular interest in Large Language Models (LLMs) 🤖.
 
 
 ## 🌐 Socials:
